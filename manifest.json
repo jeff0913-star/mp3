@@ -1,0 +1,21 @@
+{
+  "name": "姊夫的森林播放器",
+  "short_name": "姊夫播放器",
+  "description": "具有大自然質感的 PWA MP3 播放器",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f6efe4",
+  "theme_color": "#8B5A2B",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913520.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913520.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
